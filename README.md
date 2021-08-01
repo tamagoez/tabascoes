@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tabascoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabascoes&show_icons=true&theme=tokyonight)  
+![tabascoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabascoes&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabascoes&langs_count=8&layout=compact)](https://github.com/tabascoes/github-readme-stats)
 ### 主にこのリポジトリを開発してます
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=rpi-light&show_owner=true)](https://github.com/tabasoes/rpi-light)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=HimiTube&show_owner=true)](https://github.com/tabascoes/HimiTube)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=rpi-mailbaker&show_owner=true)](https://github.com/tabascoes/HimiTube)
