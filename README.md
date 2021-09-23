@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ### 主にこのリポジトリを開発してます
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=rpi-light&show_owner=true)](https://github.com/tabascoes/rpi-light)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=rpi-mailbaker&show_owner=true)](https://github.com/tabascoes/HimiTube)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=raspicluster-mcserver&show_owner=true)](https://github.com/tabascoes/raspicluster-mcserver)
