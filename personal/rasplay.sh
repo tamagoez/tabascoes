@@ -43,3 +43,18 @@ EOF
 sudo systemctl daemon-reload
 sudo systemctl enable rpiplay
 sudo systemctl start rpiplay
+
+cat <<EOF | sudo tee $HOME/wallpaper.sh
+#!/bin/bash
+pcmanfm --wallpaper-mode=fit
+x=1
+while true
+do
+  pcmanfm -w $HOME/wallpaper/$x.jpg
+  if [ x = $(ls /home/pi/wallpaper/ -U1 | wc -l) ]; then
+    x=1
+  fi
+done
+EOF
+
+sudo chmod 777 $HOME/wallpaper.sh
