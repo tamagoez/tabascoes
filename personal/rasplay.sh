@@ -20,7 +20,7 @@ make -j
 
 cd
 touch rpiplay-config.txt
-echo -n Monitor -b auto -l -a hdmi > rpiplay-config.txt
+echo "-n Monitor -b auto -l -a hdmi" > rpiplay-config.txt
 
 cat <<EOF | sudo tee /etc/systemd/system/rpiplay.service
 [Unit]
