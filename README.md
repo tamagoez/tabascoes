@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabascoes&langs_count=8&layout=compact)](https://github.com/tabascoes/github-readme-stats)
 ### 主にこのリポジトリを開発してます
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=rpi-light&show_owner=true)](https://github.com/tabascoes/rpi-light)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=pickage&show_owner=true)](https://github.com/tabascoes/pickage)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tabascoes&repo=raspicluster-mcserver&show_owner=true)](https://github.com/tabascoes/raspicluster-mcserver)
